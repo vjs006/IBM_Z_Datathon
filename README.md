@@ -1,5 +1,3 @@
----
-
 # Image Classification using Pre-trained CNN Model
 
 This project demonstrates how to load a trained convolutional neural network (CNN) model, preprocess images, and make predictions for image classification tasks. It uses Keras and TensorFlow to predict whether an input image is one of the following classes: **Benign**, **Malignant**, or **Normal** (these labels can be customized based on your dataset).
@@ -102,13 +100,6 @@ The script will output:
 Predicted: Benign (Confidence: 92.35%)
 ```
 
-![Predicted Image](path_to_image)
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions for improving this project.
-
-## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
